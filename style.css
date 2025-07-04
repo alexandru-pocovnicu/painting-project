@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+#my-button{
+    text-align: center;
+    margin: 5%;
+}
+.my-button{
+    font-weight: 900;
+    font-size:50px ;
+    border-style: double;
+    margin: 3%;
+}
