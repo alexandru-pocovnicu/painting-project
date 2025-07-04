@@ -1,0 +1,1 @@
+const walls=document.getElementsByClassName('walls');
