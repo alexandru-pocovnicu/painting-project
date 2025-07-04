@@ -1,1 +1,1 @@
-const walls=document.getElementsByClassName('walls');
+const walls=document.getElementsByClassName('.walls');
